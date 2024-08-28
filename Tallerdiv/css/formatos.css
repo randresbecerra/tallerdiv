@@ -1,0 +1,132 @@
+.contenedor{
+	width: 1200px;
+	height: 1520px;
+	background: black;
+	margin: auto;
+}
+
+.cabezote{
+	width: 1200px;
+	height: 250px;
+	background: red;
+
+}
+
+.imgcabezote{
+	width: 100%;
+	height: 250px;
+}
+
+.menu{
+	width: 240px;
+	height: 50px;
+	background: purple;
+	float: left;
+}
+
+
+.cinta{
+	width: 1200px;
+	height: 350px;
+	background: #6A5ACD;
+	float: left;
+}
+
+.avengers{
+	width:250px;
+	height: 300px;
+	background: white;
+	float: left;
+	margin-top: 25px;
+	margin-left: 40px;
+}
+
+.imaavengers{
+	width:250px;
+	height: 300px;
+}
+
+.izq{
+	width: 600px;
+	height: 500px;
+	background: #7B68EE;
+	float: left;
+}
+
+.cuadroizqint{
+	width: 500px;
+	height: 400px;
+	background: #E6E6FA;
+	float: left;
+	margin-top: 50px;
+	margin-left: 50px;
+	border-radius: 50px;
+}
+
+.dere{
+	width: 600px;
+	height: 500px;
+	background: #8A2BE2;
+	float: left;
+}
+
+.cuadroderint{
+	width: 550px;
+	height: 200px;
+	background: #E6E6FA;
+	float: left;
+	margin-top: 30px;
+	margin-left: 30px;
+	border-radius: 50px;
+}
+
+.bannerimagder{
+	width: 550px;
+	height: 200px;
+	border-radius: 50px;
+}
+
+.banner{
+	width: 1200px;
+	height: 300px;
+	background: #483D8B;
+	float: left;
+}
+
+.imabanner{
+	width: 1200px;
+	height: 300px;
+}
+
+.pie{
+	width: 1200px;
+	height: 70px;
+	background: #800080;
+	float: left;
+}
+
+.textoave{
+	font-family: "Montserrat", sans-serif;
+	font-size: 20px;
+	text-align: justify;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-right: 20px;
+}
+
+.redes{
+	width: 50px;
+	height: 50px;
+	float: right;
+	border-radius: 100%;
+	background: #E6E6FA;
+	margin-top: 10px;
+	margin-rigth: 50px;
+	margin-left: 10px;
+}
+
+.imaredes{
+	width: 50px;
+	height: 50px;
+	border-radius: 100%;
+}
